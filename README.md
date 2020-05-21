@@ -26,3 +26,6 @@ B. If you have a grey screen in the app. Close the app unplug and plug your Kine
 
 Have fun.
 Hope it helps
+
+## Download app and runtime:
+https://eloistreedustybox.itch.io/2016-09-10-kinectviewerforobs
