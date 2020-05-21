@@ -2,7 +2,7 @@
 Tutorials and tools to use Kinect In OBS
 
 ## Window 10 Way:
-[![Youtube Video](http://img.youtube.com/vi/v=MOUgAlr2EU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=MOUgAlr2EU4)
+[![Youtube Video](http://img.youtube.com/vi/MOUgAlr2EU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=MOUgAlr2EU4)
 ### Old ways: 
 [![Youtube Video](http://img.youtube.com/vi/IihmcG3uMhk/maxresdefault.jpg)](https://youtu.be/IihmcG3uMhk)
 
